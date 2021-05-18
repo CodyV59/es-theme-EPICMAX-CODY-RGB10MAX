@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>VIDEOS MOVIES</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>MOVIES Player</text>
+ </text>
+  <text name="sys_line2" extra="true">
+    <text>VIDEOS</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+    <text>1970's  ·  Cinema </text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text>videos movie player</text>
+  </text>
+ </view>
+</theme>

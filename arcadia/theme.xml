@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>ARCADIA 2001</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>ARCADIA</text>
+  </text>    
+  <text name="sys_line2" extra="true">
+    <text>2001</text>
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  Video Game Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Arcadia 2001 is a second-generation 8-bit home video game console released by Emerson Radio in May 1982 for a price of US$ 99, several months before the release of ColecoVision.</text>
+  </text>
+ </view>
+</theme>

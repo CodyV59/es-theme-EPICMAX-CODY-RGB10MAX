@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>TIGER ELECTRONICS</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Electronics LCD</text>
+  </text>  
+  <text name="sys_line2" extra="true">
+    <text>TIGER</text>
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  16-bit Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Tiger Electronics is an American toy manufacturer best known for its handheld LCD games, the Furby, the Talkboy, Giga Pets.</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>PALM OS</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>PDA'S</text>
+  </text>  
+  <text name="sys_line2" extra="true">
+    <text>PALM OS</text>
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>1996  ·  PDA's Assistants</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Palm OS is a discontinued mobile operating system initially developed by Palm for personal digital assistants (PDAs) in 1996</text>
+  </text>
+ </view>
+</theme>

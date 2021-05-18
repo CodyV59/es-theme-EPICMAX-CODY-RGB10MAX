@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>SEGA CHIHIRO</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>SEGA</text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>CHIHIRO</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>2003  ·  Arcade system</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Sega Chihiro is an arcade system produced by Sega in 2003. The Microsoft XBOX is based on the Chihiro design, but the Chihiro supports up to 1GB of RAM and uses GD-ROM media instead of DVDs.</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>LCD GAMES HANHELD</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text></text>
+  </text>  
+  <text name="sys_line2" extra="true">
+    <text>LCD GAMES</text>
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>1985  ·  handheld</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Various LCD Games, various manufacturer.</text>
+  </text>
+ </view>
+</theme>

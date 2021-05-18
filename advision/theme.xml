@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Adventure Vision</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>ENTEX ADVENTURE VISION</text>
+  </text>  
+  <text name="sys_line2" extra="true">
+    <text>ADVISION</text>
+  </text>     
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  Video Game Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Adventure Vision is a cartridge-based video game console released by Entex Industries in either August or October 1982.</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>COMMODORE CDTV</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>COMMODORE</text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>CDTV</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1991  ·  Home Video Console Multimedia</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>tThe CDTV from Commodore Dynamic Total Vision is a home multimedia entertainment and video game console</text>
+  </text>
+ </view>
+</theme>

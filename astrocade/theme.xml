@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>BALLY ASTROCADE</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>BALLY</text>
+  </text>    
+  <text name="sys_line2" extra="true">
+    <text>ASTROCADE</text>
+  </text>
+  <text name="shortdescription" extra="true">
+   <text>1978  ·  Home Video Game</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Bally Astrocade is a second-generation home video game console and simple computer system designed by a team at Midway, at that time the videogame division of Bally.</text>
+  </text>
+ </view>
+</theme>
