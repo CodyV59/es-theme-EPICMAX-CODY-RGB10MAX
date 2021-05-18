@@ -50,6 +50,16 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <size>0 1</size>
     </image>
 
+    <image name="clockbg" extra="true">
+        <path>./_art/clockbg.png</path>
+        <tile>false</tile>
+        <size>1 1</size>
+        <pos>0 0</pos>
+        <origin>0 0</origin>
+        <zIndex>32</zIndex>
+    </image>
+
+
     <carousel name="systemcarousel">
         <type>vertical</type>
         <color>00000000</color>
@@ -307,12 +317,20 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
    <view name="screen">
     <text name="clock">
-      <color>FFFFFF</color>
-      <fontSize>0.035</fontSize>
-      <pos>0.910 0.01</pos>
-      <size>0.09 0.058</size>
-      <alignment>right</alignment>
+      <color>00000099</color>
+      <fontPath>./_art/BebasNeue.otf</fontPath>
+      <fontSize>0.08</fontSize>
+      <origin>1 1</origin>
+      <pos>1.22 1.11</pos>
+      <size>0.3 0.3</size>
+      <alignment>left</alignment>
       <verticalAlignment>center</verticalAlignment>
+<rotation>0</rotation>
+<glowColor>ff360033</glowColor>
+<glowSize>3</glowSize>
+
+
+
     </text>
     <batteryIndicator name="batteryIndicator">
       <pos>0.855 0.01</pos>
