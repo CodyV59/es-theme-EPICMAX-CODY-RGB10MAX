@@ -76,7 +76,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
-		<fontSize>0.25</fontSize>
+		<fontSize>0.21</fontSize>
         <origin>0 0</origin>
         <pos>0.008 0.150</pos>
         <size>0 0</size>
@@ -90,9 +90,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>00000099</color>
-		<fontSize>0.13</fontSize>
+		<fontSize>0.11</fontSize>
         <origin>0 0</origin>
-        <pos>0.01 0.10</pos>
+        <pos>0.01 0.09</pos>
         <size>0 0</size>
 <glowColor>ff360055</glowColor>
 <glowSize>4</glowSize>
@@ -112,7 +112,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <fontSize>0.035</fontSize>
+        <fontSize>0.033</fontSize>
         <color>ffffff</color>
         <origin>0 0</origin>
         <pos>0.008 0.003</pos>
@@ -126,7 +126,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <forceUppercase>1</forceUppercase>
         <color>FFFFFF</color>
         <origin>0 0</origin>
-        <pos>0.009 0.47</pos>
+        <pos>0.009 0.5</pos>
         <size>0.400 0.048</size>
         <fontSize>0.063</fontSize>
     </text>
@@ -135,7 +135,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <fontSize>0.026</fontSize>
+        <fontSize>0.024</fontSize>
         <color>ffffff</color>
  	<lineSpacing>1.18</lineSpacing>
         <origin>0 1</origin>
@@ -171,7 +171,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <pos>0 0.10</pos>
 	    <size>0.34 0.91</size>
-        <fontSize>0.036</fontSize>
+        <fontSize>0.033</fontSize>
         <lineSpacing>1.5</lineSpacing>
         <horizontalMargin>0.003</horizontalMargin>
         <zIndex>32</zIndex>
@@ -311,7 +311,18 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <delay>1.4</delay>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
             <showSnapshotDelay>true</showSnapshotDelay>
+            <zIndex>30</zIndex>
+
         </video>
+    <image name="clockbg" extra="true">
+        <path>./_art/clockbg.png</path>
+        <tile>false</tile>
+        <size>1 1</size>
+        <pos>0 0</pos>
+        <origin>0 0</origin>
+        <zIndex>32</zIndex>
+    </image>
+
     </view>
 </feature>
 
@@ -319,7 +330,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="clock">
       <color>00000099</color>
       <fontPath>./_art/BebasNeue.otf</fontPath>
-      <fontSize>0.08</fontSize>
+      <fontSize>0.06</fontSize>
       <origin>1 1</origin>
       <pos>1.22 1.11</pos>
       <size>0.3 0.3</size>
@@ -355,7 +366,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </menuBackground>
 	<menuText name="menutext">
 	  <fontPath>./_art/Acre.otf</fontPath>
-	  <fontSize>.037</fontSize>
+	  <fontSize>.033</fontSize>
 	  <color>ff6600</color>
 	</menuText>
 	<menuTextEdit name="menutextedit">
