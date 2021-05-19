@@ -310,6 +310,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <delay>1.4</delay>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
             <showSnapshotDelay>true</showSnapshotDelay>
+            <zIndex>30</zIndex>
         </video>
     <image name="clockbg" extra="true">
         <path>./_art/clockbg.png</path>
@@ -333,7 +334,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <size>0.3 0.3</size>
       <alignment>left</alignment>
       <verticalAlignment>center</verticalAlignment>
-<rotation>0</rotation>
+      <rotation>0</rotation>
 
 
     </text>
