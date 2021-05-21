@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>LOWRES NX</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>RETRO GAMES BASIC ENGINE</text>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>LOWRES NX</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>BASIC ENGINE FOR CUSTOM GAMES</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Make your own retro games on a virtual game console. Program in the classic BASIC language and create WONDERFUL GAMES.</text>
+  </text>
+ </view>
+</theme>
